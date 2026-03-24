@@ -25,3 +25,4 @@ Modern ve kullanıcı dostu bir araç kiralama platformudur. Kullanıcıların d
 - 🔗 URL tabanlı filtreleme ve durum yönetimi
 - ✨ Akıcı animasyonlar ve geçiş efekleri
 - ⚠️ Hata yönetimi ve yükleme durumları
+
